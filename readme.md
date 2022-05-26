@@ -1,6 +1,6 @@
 # **Early Cancer Detection with Machine Learning**
 
-![](../../Desktop/Fall 21/COMP 379/180920-F-XXXXX-0001.jpeg)
+![180920-F-XXXXX-0001](https://user-images.githubusercontent.com/71475457/170593910-89a902b6-f38f-4f7d-bf14-5e766cdb8d3a.jpeg)
 
 Breast Cancer is the second leading cause of cancer death among women.¹
 
